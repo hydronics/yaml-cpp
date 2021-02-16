@@ -1,8 +1,8 @@
 build/
-/tags
-/bazel-*
 bin/
 bin-int/
+/tags
+/bazel-*
 *.lib
 *.pdb
 *.tlog
