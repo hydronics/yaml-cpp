@@ -1,3 +1,13 @@
 build/
 /tags
 /bazel-*
+*.lib
+*.pdb
+*.tlog
+*.obj
+*.log
+*.txt
+*.idb
+*.recipe
+*.vcxproj
+*.filters
